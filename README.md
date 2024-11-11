@@ -1,6 +1,6 @@
 # Apache Kafka example for Spring Boot
 
-Example code for connecting to a Apache Kafka cluster and authenticate with SASL/SCRAM based on https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-kafka
+Example code for connecting to a Apache Kafka cluster and authenticate with SASL/SCRAM based on https://github.com/spring-projects/spring-kafka/tree/main/samples
 
 To quickly test this example you can create a free Apache Kafka instance at https://www.cloudkarafka.com
 
